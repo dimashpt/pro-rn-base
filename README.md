@@ -51,33 +51,6 @@ bun ios       # iOS Simulator
 bun android   # Android Emulator
 ```
 
-**New to the project?** Check out the [Getting Started Guide](./docs/GETTING_STARTED.md) for detailed setup instructions.
-
-## 📚 Documentation
-
-Complete documentation is available in the `/docs` directory:
-
-### Core Documentation
-
-| Document | Description |
-|----------|-------------|
-| [**Getting Started**](./docs/GETTING_STARTED.md) | Prerequisites, installation, and running the app |
-| [**Project Structure**](./docs/PROJECT_STRUCTURE.md) | Directory organization and architecture |
-| [**Development Guide**](./docs/DEVELOPMENT.md) | Development workflow, scripts, and best practices |
-| [**Configuration**](./docs/CONFIGURATION.md) | Environment variables and app configuration |
-| [**Building**](./docs/BUILDING.md) | Building for different platforms and environments |
-| [**Testing**](./docs/TESTING.md) | Testing setup, guidelines, and best practices |
-| [**Versioning**](./docs/VERSIONING.md) | Version management and release process |
-| [**Contributing**](./docs/CONTRIBUTING.md) | Contribution guidelines and workflow |
-
-### Quick Links
-
-- 🏃 **First time here?** → Start with [Getting Started](./docs/GETTING_STARTED.md)
-- 🏗️ **Understanding the code?** → Read [Project Structure](./docs/PROJECT_STRUCTURE.md)
-- 💻 **Ready to code?** → Follow [Development Guide](./docs/DEVELOPMENT.md)
-- 🚀 **Deploying?** → Check [Building](./docs/BUILDING.md)
-- 🤝 **Want to contribute?** → See [Contributing](./docs/CONTRIBUTING.md)
-
 ## 🛠 Tech Stack
 
 ### Core Technologies
@@ -100,10 +73,8 @@ Complete documentation is available in the `/docs` directory:
 - **Data Fetching**: TanStack React Query (React Query) with Axios
 - **Form Handling**: React Hook Form with Zod validation
 - **UI Components**: React Native Paper, Bottom Sheet
-- **Maps**: React Native Maps
-- **Camera**: React Native Vision Camera with Face Detection
 - **Internationalization**: i18next with react-i18next
-- **Animations**: React Native Reanimated, Lottie
+- **Animations**: React Native Reanimated
 - **Testing**: Jest with React Native Testing Library
 - **Error Tracking**: Sentry
 - **Performance**: React Native Performance monitoring
@@ -187,7 +158,6 @@ git push origin feature/your-feature-name
 
 ### Internal Resources
 
-- 📖 [Complete Documentation](./docs/)
 - 🐛 [GitHub Issues](../../issues)
 - 💬 Team Communication Channels
 

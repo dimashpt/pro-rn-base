@@ -1,8 +1,8 @@
 const { withRozenite } = require('@rozenite/metro');
-const { getSentryExpoConfig } = require('@sentry/react-native/metro');
+const { getDefaultConfig } = require('@expo/metro-config');
 const { withRozeniteExpoAtlasPlugin } = require('@rozenite/expo-atlas-plugin');
 
-const config = getSentryExpoConfig(__dirname);
+const config = getDefaultConfig(__dirname);
 
 /** @type {import('expo/metro-config').MetroConfig} */
 const finalConfig = {
