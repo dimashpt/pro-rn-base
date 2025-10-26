@@ -1,0 +1,17 @@
+{
+  "general": {
+    "greeting": "Halo dunia!",
+    "close": "Tutup",
+    "submit": "Kirim",
+    "done": "Selesai",
+    "yes": "Ya",
+    "no": "Tidak",
+    "cancel": "Batal",
+    "continue": "Lanjutkan",
+    "confirm": "Konfirmasi"
+  },
+  "tab": {
+    "home": "Home",
+    "settings": "Pengaturan"
+  }
+}

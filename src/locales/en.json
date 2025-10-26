@@ -1,0 +1,17 @@
+{
+  "general": {
+    "greeting": "Hello world!",
+    "close": "Close",
+    "submit": "Submit",
+    "done": "Done",
+    "yes": "Yes",
+    "no": "No",
+    "cancel": "Cancel",
+    "continue": "Continue",
+    "confirm": "Confirm"
+  },
+  "tab": {
+    "home": "Home",
+    "settings": "Settings"
+  }
+}
